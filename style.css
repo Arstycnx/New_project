@@ -1,0 +1,12 @@
+.container{
+    /* background-color: rgba(147, 55, 233, 0.581); */
+    display: grid;
+    background-color: rgba(153, 64, 236, 0.432);
+}
+.row{
+    gap: 10px;
+}
+.col{
+    font-size: 30px;
+    
+}
